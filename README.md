@@ -49,7 +49,7 @@ Where every pixel matters and every note resonates. 🚀
   
   [![Windows Download](https://img.shields.io/badge/_DOWNLOAD_NOW-0078D6?style=for-the-badge&logo=windows&logoColor=white&label=Hot%20Player%20v3.5.0&labelColor=0078D6)](https://github.com/hotplayer/official/releases/download/v3.5.0/HotPlayer_Setup.exe)
 
-  <h3>🔥 ONE-CLICK INSTALL • 15MB INSTALLER • 60s SETUP</h3>
+  <h3>🔥 ONE-CLICK INSTALL • 11,7MB INSTALLER • 60s SETUP</h3>
   
   <a href="https://github.com/hotplayer/official/releases">
     <img src="https://img.shields.io/github/stars/hotplayer/official?style=for-the-badge&color=gold&label=GITHUB%20STARS&logo=github" alt="GitHub Stars">
