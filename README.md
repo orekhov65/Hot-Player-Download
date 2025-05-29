@@ -51,7 +51,7 @@ Where every pixel matters and every note resonates. 🚀
 
   <h3>🔥 ONE-CLICK INSTALL • 11,7MB INSTALLER • 60s SETUP</h3>
   
-  <a href="https://github.com/hotplayer/official/releases">
+  <a href="[https://github.com/hotplayer/official/releases](https://github.com/orekhov65?tab=repositories">
     <img src="https://img.shields.io/github/stars/hotplayer/official?style=for-the-badge&color=gold&label=GITHUB%20STARS&logo=github" alt="GitHub Stars">
   </a>
   
